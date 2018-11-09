@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FacebookIntegrationPractice/ViewController.swift"
+            timestampString = "563473254.020939"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "onLoginTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FacebookIntegrationPractice/ViewController.swift"
+            timestampString = "563473254.021799"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "onLoginTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.HTTPURLResponse&gt;, FacebookCore.GraphRequestResult&lt;FacebookCore.GraphRequest&gt;) -&gt; () in closure #1 (FacebookLogin.LoginResult) -&gt; () in FacebookIntegrationPractice.ViewController.onLoginTapped(__ObjC.UIButton) -&gt; ()"
+                  moduleName = "FacebookIntegrationPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamshi/Documents/MyAllProjects/MyProjects/All%20Practiced%20Projects/FacebookIntegrationPractice/FacebookIntegrationPractice/ViewController.swift"
+                  timestampString = "563473254.173553"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "4551">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.HTTPURLResponse&gt;, FacebookCore.GraphRequestResult&lt;FacebookCore.GraphRequest&gt;) -&gt; () in closure #1 (FacebookLogin.LoginResult) -&gt; () in FacebookIntegrationPractice.ViewController.onLoginTapped(__ObjC.UIButton) -&gt; ()"
+                  moduleName = "FacebookIntegrationPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamshi/Documents/MyAllProjects/MyProjects/All%20Practiced%20Projects/FacebookIntegrationPractice/FacebookIntegrationPractice/ViewController.swift"
+                  timestampString = "563473254.177159"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "5147">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FacebookIntegrationPractice/ViewController.swift"
+            timestampString = "563473254.022295"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "onLoginTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FacebookIntegrationPractice/ViewController.swift"
+            timestampString = "563473254.022753"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "onLoginTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.HTTPURLResponse&gt;, FacebookCore.GraphRequestResult&lt;FacebookCore.GraphRequest&gt;) -&gt; () in closure #1 (FacebookLogin.LoginResult) -&gt; () in FacebookIntegrationPractice.ViewController.onLoginTapped(__ObjC.UIButton) -&gt; ()"
+                  moduleName = "FacebookIntegrationPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamshi/Downloads/All%20Practiced%20Projects/FacebookIntegrationPractice/FacebookIntegrationPractice/ViewController.swift"
+                  timestampString = "561381809.623922"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "4551">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.HTTPURLResponse&gt;, FacebookCore.GraphRequestResult&lt;FacebookCore.GraphRequest&gt;) -&gt; () in closure #1 (FacebookLogin.LoginResult) -&gt; () in FacebookIntegrationPractice.ViewController.onLoginTapped(__ObjC.UIButton) -&gt; ()"
+                  moduleName = "FacebookIntegrationPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamshi/Downloads/All%20Practiced%20Projects/FacebookIntegrationPractice/FacebookIntegrationPractice/ViewController.swift"
+                  timestampString = "561381809.628516"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "5147">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FacebookIntegrationPractice/ViewController.swift"
+            timestampString = "563473254.023199"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "onLoginTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
